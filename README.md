@@ -17,4 +17,4 @@ Obsidian is a colorscheme for Vim
 1. add `NeoBundle 'abra/vim-obsidian'` in `.vimrc` and then run `:NeoBundleInstall`
 2. add line `colorscheme obsidian` to your `.vimrc`
 
-
+This file is changed in 2023-8-22 for learning git pull and push
